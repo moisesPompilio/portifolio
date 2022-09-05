@@ -45,7 +45,7 @@ function App() {
         <C.ContainerFlex>
           <C.Sobre>
             <C.Title>Moises Alexandre Pompilio da Costa</C.Title>
-            <C.ParagrafoSobre>Desenvolvedor de software focado em programação para web. Sempre admirei o universo das tecnologias, principalmente quando se trata de web, pois gosto de ter uma variedade de conteúdo digital. Tenho interesse em trabalhar em projetos que ajudem a sociedade no seu dia-a-dia ou no seu lazer.</C.ParagrafoSobre>
+            <C.ParagrafoSobre>Desenvolvedor de software focado em programação para web. Sempre admirei o universo das tecnologias, principalmente quando se trata de internet, pois gosto da integração em escala global que web promove. Tenho interesse em trabalhar em projetos que ajudem a sociedade no seu dia-a-dia ou no seu lazer.</C.ParagrafoSobre>
           </C.Sobre>
           <C.Linguagem>
             <C.Title>Linguagem e Framework.</C.Title>
