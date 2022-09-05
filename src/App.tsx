@@ -173,6 +173,10 @@ function App() {
           </C.ContainerOutros>
         </C.ContainerFlex>
       </C.Main>
+      <C.ContainerPadrao>
+        <a href="mailto:moisesalexandrep.c@gmail.com" target="_blank"><C.Title><C.TitituloImg src={Email} />  moisesalexandrep.c@gmail.com</C.Title></a>
+        <a href="https://wa.me/qr/ZEMEIJXWRZHIH1" target="_blank"><C.Title><C.TitituloImg src={What} />  (91) 9 8742-0521</C.Title></a>
+      </C.ContainerPadrao>
     </C.Container>
   )
 }
