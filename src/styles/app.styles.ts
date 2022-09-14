@@ -116,8 +116,8 @@ margin-bottom: 15px;
 `;
 export const Projeto = styled.div`
 width: 47.5%;
-background-color: black;
-box-shadow: 0px 0px 4px #CCC;
+background-color: #EDEDED;
+box-shadow: 4px 4px 7px #202020;
 margin: auto;
 margin-top: 0;
 @media screen and (max-width: 500px) {
@@ -130,17 +130,17 @@ font-weight: bold;
 font-size: 30px;
 margin: 10px 15px 0px 10px;
 justify-content: center;
-color: white;
+color: black;
 
 `;
 export const SubtituloProjeto = styled.h2`
 font-size: 25px;
 margin: 10px 15px 0px 10px;
 font-weight: semi-bold;
-color: #ffffff;
+color: #000000;
 `;
 export const ParagrafoProjeto = styled.p`
-color: #fffff0;
+color: #000000;
 font-size: 25px;
 margin: 19px;
 `;

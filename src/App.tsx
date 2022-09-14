@@ -81,7 +81,7 @@ function App() {
               <C.TitleProjeto ><C.TitituloImg src={ProjetoTexto} />  Equity-Wallet</C.TitleProjeto>
               <C.SubtituloProjeto> Tecnologias:  Node, React e PostgreSQL</C.SubtituloProjeto>
               <C.ParagrafoProjeto>   Sistema desenvolvido visando ajudar as pessoas a controlarem seus gastos, de um jeito fácil e prático, assim poupando tempo e incentivando as pessoas a terem uma vida financeira consciente.</C.ParagrafoProjeto>
-              <C.ParagrafoProjeto>   Ele foi desenvolvido em Node(TypeScript, TypeORM e Express) no Back-end, no Front-end foi utilizado React.tsx, banco de dados PostgreSQL e Docker.</C.ParagrafoProjeto>
+              <C.ParagrafoProjeto>   Ele foi desenvolvido em Node(TypeScript, TypeORM, Jest, SuperTest e Express) no Back-end, no Front-end foi utilizado React.tsx, banco de dados PostgreSQL e Docker.</C.ParagrafoProjeto>
               <C.ParagrafoProjeto>   Dessa maneira o projeto foi desenvolvido visando escalabilidade e eficiência na aplicação, assim como ajudar a população no controle financeiro.</C.ParagrafoProjeto>
               <a href="https://github.com/moisesPompilio/equity-wallet_front-end" target="_blank"><C.SubtituloProjeto>Front-end</C.SubtituloProjeto></a>
               <a href="https://github.com/moisesPompilio/equity-wallet_back-end" target="_blank"><C.SubtituloProjeto>Back-end</C.SubtituloProjeto></a>
@@ -100,7 +100,7 @@ function App() {
               <C.SubtituloProjeto> Tecnologias:  Java, Selenium e SQLite</C.SubtituloProjeto>
               <C.ParagrafoProjeto>   Software desenvolvido para ajudar na triagem de dados para AGU, o qual visa aumentar a eficiência no despacho e triagem de informações para o setor previdenciário.</C.ParagrafoProjeto>
               <C.ParagrafoProjeto>   Ele foi desenvolvido para ser um BOT para desktop, utilizando Java, Selenium(realiza pesquisa na web) e banco de dados SQLite.</C.ParagrafoProjeto>
-              <C.ParagrafoProjeto>   Dessa forma o sistema foi desenvolvido para aumentar a efetividade na parte da triagem, assim garantindo agilidade nos processos e melhorias sociais.</C.ParagrafoProjeto>
+              <C.ParagrafoProjeto>   Dessa forma o sistema foi desenvolvido para aumentar a efetividade na parte da triagem, assim garantindo agilidade nos processos.</C.ParagrafoProjeto>
               <a href="https://github.com/moisesPompilio/Beremiz-Samir" target="_blank"><C.SubtituloProjeto>GitHub</C.SubtituloProjeto></a>
             </C.Projeto>
           </C.ContainerFlex>
@@ -128,7 +128,7 @@ function App() {
             <C.Paragrafo>Experiência com Docker.</C.Paragrafo>
             <C.Paragrafo>Experiência  com metodologia Scrum.</C.Paragrafo>
             <C.Paragrafo>Conhecimento em documentação de código com  Swagge e Storybook.</C.Paragrafo>
-            <C.Paragrafo>Conhecimentos em TypeScript, MongoDB, Flutter e C++.</C.Paragrafo>
+            <C.Paragrafo>Conhecimentos em MongoDB, Flutter e C++.</C.Paragrafo>
           </C.ContainerPadrao>
           <C.ContainerPadrao>
             <C.Title><C.TitituloImg src={Certificacao} />  Certificações:</C.Title>
