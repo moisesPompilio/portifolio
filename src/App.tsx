@@ -126,7 +126,7 @@ function App() {
             <C.Paragrafo>Banco de dados relacional e não relacional (PostgreSQL, SQLite e Mysql).</C.Paragrafo>
             <C.Paragrafo>Experiência com GitHub, web API, protocolo HTPP e Figma.</C.Paragrafo>
             <C.Paragrafo>Experiência com Docker.</C.Paragrafo>
-            <C.Paragrafo>Experiência  com metodologia Scrum.</C.Paragrafo>
+            <C.Paragrafo>Experiência  com metodologia Scrum, SOLID e CLEAN Code.</C.Paragrafo>
             <C.Paragrafo>Conhecimento em documentação de código com  Swagge e Storybook.</C.Paragrafo>
             <C.Paragrafo>Conhecimentos em MongoDB, Flutter e C++.</C.Paragrafo>
           </C.ContainerPadrao>
